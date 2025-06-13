@@ -1,10 +1,9 @@
 const products = [
-{
-  name: "عسل طبيعي",
-  price: "10 يورو",
-  image: "images/honey.jpg"
-},
-
+  {
+    name: "زيت زيتون بكر ممتاز",
+    price: "25 ريال",
+    image: "images/olive-oil.jpg"
+  },
   {
     name: "زعتر بلدي",
     price: "15 ريال",
@@ -14,8 +13,14 @@ const products = [
     name: "دبس رمان طبيعي",
     price: "20 ريال",
     image: "images/pomegranate.jpg"
+  },
+  {
+    name: "عسل طبيعي",
+    price: "10 يورو",
+    image: "images/honey.jpg"
   }
 ];
+
 
 const phoneNumber = "966XXXXXXXXX"; // رقم الواتساب بدون +
 
