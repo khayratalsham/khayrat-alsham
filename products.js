@@ -15,7 +15,7 @@ const products = [
     image: "images/pomegranate.jpg"
   },
 {
-  name: "عسل طبيعي",
+   name: "عسل طبيعي",
   price: "10 يورو",
   image: "images/honey1.jpg"
 }
