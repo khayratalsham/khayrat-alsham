@@ -13,10 +13,13 @@ const products = [
     name: "دبس رمان طبيعي",
     price: "20 ريال",
     image: "images/pomegranate.jpg"
+  },
+  {
+    name: "عسل طبيعي",
+    price: "10 يورو",
+    image: "images/honey.png"
   }
 ];
-
-const phoneNumber = "966XXXXXXXXX"; // رقم الواتساب بدون +
 
 const container = document.getElementById("product-list");
 
