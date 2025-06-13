@@ -29,7 +29,6 @@ products.forEach(product => {
     <div class="product-content">
       <h3>${product.name}</h3>
       <p>السعر: ${product.price}</p>
-      <a href="https://wa.me/${phoneNumber}?text=مرحبًا، أرغب بطلب: ${encodeURIComponent(product.name)} بسعر ${product.price}" target="_blank">اطلب عبر واتساب</a>
     </div>
   `;
 
