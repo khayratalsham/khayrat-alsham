@@ -1,9 +1,10 @@
 const products = [
-  {
-    name: "زيت زيتون بكر ممتاز",
-    price: "25 ريال",
-    image: "images/olive-oil.jpg"
-  },
+{
+  name: "عسل طبيعي",
+  price: "10 يورو",
+  image: "images/honey.jpg"
+},
+
   {
     name: "زعتر بلدي",
     price: "15 ريال",
