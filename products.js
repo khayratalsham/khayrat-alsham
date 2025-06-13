@@ -14,11 +14,6 @@ const products = [
     price: "20 ريال",
     image: "images/pomegranate.jpg"
   },
-  {
-    name: "عسل طبيعي",
-    price: "10 يورو",
-    image: "images/honey.jpg"
-  }
 ];
 
 
